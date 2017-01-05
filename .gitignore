@@ -18,3 +18,4 @@ tmp
 classes
 gen-external-apklibs
 .externalNativeBuild
+.idea
