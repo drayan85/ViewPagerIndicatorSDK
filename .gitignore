@@ -19,3 +19,4 @@ classes
 gen-external-apklibs
 .externalNativeBuild
 .idea
+.idea has been removed
